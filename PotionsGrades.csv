@@ -1,0 +1,79 @@
+AcademicYear,Student,House,Potion,Grade,Score
+1995,Harry Potter,Gryffindor,Draught of Peace,Acceptable,70
+1995,Hermione Granger,Gryffindor,Draught of Peace,Outstanding,95
+1995,Draco Malfoy,Slytherin,Wit-Sharpening,Exceeds Expectations,85
+1995,Luna Lovegood,Ravenclaw,Draught of Peace,Exceeds Expectations,90
+1995,Neville Longbottom,Gryffindor,Amortentia,Acceptable,65
+1995,Pansy Parkinson,Slytherin,Wit-Sharpening,Acceptable,75
+1995,Cho Chang,Ravenclaw,Amortentia,Exceeds Expectations,88
+1995,Dean Thomas,Gryffindor,Draught of Peace,Acceptable,72
+1996,Hermione Granger,Gryffindor,Polyjuice Potion,Outstanding,98
+1996,Harry Potter,Gryffindor,Polyjuice Potion,Exceeds Expectations,80
+1996,Draco Malfoy,Slytherin,Felix Felicis,Exceeds Expectations,87
+1996,Luna Lovegood,Ravenclaw,Felix Felicis,Outstanding,92
+1996,Neville Longbottom,Gryffindor,Polyjuice Potion,Poor,60
+1996,Pansy Parkinson,Slytherin,Felix Felicis,Acceptable,78
+1996,Cho Chang,Ravenclaw,Polyjuice Potion,Exceeds Expectations,85
+1996,Dean Thomas,Gryffindor,Felix Felicis,Acceptable,70
+1997,Hermione Granger,Gryffindor,Veritaserum,Outstanding,96
+1997,Harry Potter,Gryffindor,Veritaserum,Exceeds Expectations,82
+1997,Draco Malfoy,Slytherin,Veritaserum,Exceeds Expectations,84
+1997,Luna Lovegood,Ravenclaw,Veritaserum,Outstanding,94
+1997,Neville Longbottom,Gryffindor,Draught of Peace,Acceptable,68
+1997,Pansy Parkinson,Slytherin,Draught of Peace,Acceptable,73
+1997,Cho Chang,Ravenclaw,Veritaserum,Exceeds Expectations,89
+1997,Dean Thomas,Gryffindor,Veritaserum,Acceptable,71
+1995,Ron Weasley,Gryffindor,Draught of Peace,Acceptable,69
+1995,Ginny Weasley,Gryffindor,Wit-Sharpening,Exceeds Expectations,86
+1995,Padma Patil,Ravenclaw,Amortentia,Outstanding,91
+1995,Parvati Patil,Gryffindor,Amortentia,Exceeds Expectations,83
+1996,Ron Weasley,Gryffindor,Polyjuice Potion,Acceptable,67
+1996,Ginny Weasley,Gryffindor,Felix Felicis,Exceeds Expectations,88
+1996,Padma Patil,Ravenclaw,Polyjuice Potion,Outstanding,93
+1996,Parvati Patil,Gryffindor,Felix Felicis,Exceeds Expectations,84
+1997,Ron Weasley,Gryffindor,Veritaserum,Acceptable,70
+1997,Ginny Weasley,Gryffindor,Veritaserum,Exceeds Expectations,85
+1997,Padma Patil,Ravenclaw,Veritaserum,Outstanding,95
+1997,Parvati Patil,Gryffindor,Veritaserum,Exceeds Expectations,82
+1995,Seamus Finnigan,Gryffindor,Draught of Peace,Poor,62
+1995,Vincent Crabbe,Slytherin,Wit-Sharpening,Poor,64
+1995,Terry Boot,Ravenclaw,Amortentia,Exceeds Expectations,87
+1995,Hannah Abbott,Hufflepuff,Draught of Peace,Acceptable,74
+1996,Seamus Finnigan,Gryffindor,Polyjuice Potion,Acceptable,66
+1996,Vincent Crabbe,Slytherin,Felix Felicis,Poor,63
+1996,Terry Boot,Ravenclaw,Polyjuice Potion,Outstanding,90
+1996,Hannah Abbott,Hufflepuff,Felix Felicis,Acceptable,76
+1997,Seamus Finnigan,Gryffindor,Veritaserum,Acceptable,68
+1997,Vincent Crabbe,Slytherin,Veritaserum,Poor,65
+1997,Terry Boot,Ravenclaw,Veritaserum,Outstanding,92
+1997,Hannah Abbott,Hufflepuff,Veritaserum,Acceptable,75
+1995,Justin Finch-Fletchley,Hufflepuff,Amortentia,Acceptable,73
+1995,Blaise Zabini,Slytherin,Wit-Sharpening,Exceeds Expectations,80
+1995,Michael Corner,Ravenclaw,Draught of Peace,Exceeds Expectations,85
+1995,Lavender Brown,Gryffindor,Amortentia,Acceptable,70
+1996,Justin Finch-Fletchley,Hufflepuff,Felix Felicis,Acceptable,74
+1996,Blaise Zabini,Slytherin,Polyjuice Potion,Exceeds Expectations,82
+1996,Michael Corner,Ravenclaw,Felix Felicis,Outstanding,91
+1996,Lavender Brown,Gryffindor,Polyjuice Potion,Acceptable,68
+1997,Justin Finch-Fletchley,Hufflepuff,Veritaserum,Acceptable,76
+1997,Blaise Zabini,Slytherin,Veritaserum,Exceeds Expectations,83
+1997,Michael Corner,Ravenclaw,Veritaserum,Outstanding,93
+1997,Lavender Brown,Gryffindor,Veritaserum,Acceptable,69
+1995,Ernie Macmillan,Hufflepuff,Draught of Peace,Exceeds Expectations,84
+1995,Gregory Goyle,Slytherin,Wit-Sharpening,Poor,60
+1995,Anthony Goldstein,Ravenclaw,Amortentia,Outstanding,90
+1995,Fred Weasley,Gryffindor,Draught of Peace,Acceptable,71
+1996,Ernie Macmillan,Hufflepuff,Felix Felicis,Exceeds Expectations,85
+1996,Gregory Goyle,Slytherin,Polyjuice Potion,Poor,61
+1996,Anthony Goldstein,Ravenclaw,Polyjuice Potion,Outstanding,92
+1996,Fred Weasley,Gryffindor,Felix Felicis,Acceptable,72
+1997,Ernie Macmillan,Hufflepuff,Veritaserum,Exceeds Expectations,86
+1997,Gregory Goyle,Slytherin,Veritaserum,Poor,62
+1997,Anthony Goldstein,Ravenclaw,Veritaserum,Outstanding,94
+1997,Fred Weasley,Gryffindor,Veritaserum,Acceptable,70
+1995,George Weasley,Gryffindor,Amortentia,Acceptable,73
+1995,Susan Bones,Hufflepuff,Wit-Sharpening,Exceeds Expectations,82
+1996,George Weasley,Gryffindor,Polyjuice Potion,Acceptable,74
+1996,Susan Bones,Hufflepuff,Felix Felicis,Exceeds Expectations,83
+1997,George Weasley,Gryffindor,Veritaserum,Acceptable,71
+1997,Susan Bones,Hufflepuff,Veritaserum,Exceeds Expectations,84
