@@ -1,6 +1,6 @@
 # Pop Culture KQL Datasets
 
-This repository contains fictional datasets inspired by popular fictional universes—Star Wars and Harry Potter—designed for learning and experimenting with the Kusto Query Language (KQL) in Azure Data Explorer. These datasets were created to accompany the blog post "KQL in Pop Culture: Querying Your Favorite Fictional Worlds."
+This repository contains fictional datasets inspired by popular fictional universes—Star Wars and Harry Potter—designed for learning and experimenting with the Kusto Query Language (KQL) in Azure Data Explorer. These datasets were created to accompany the blog post ["KQL in Pop Culture: Querying Your Favorite Fictional Worlds."](https://rodtrent.substack.com/p/kql-in-pop-culture-querying-your)
 
 ## Datasets
 
